@@ -8,3 +8,5 @@ tags:
 resources: 0
 languages:
   - ruby
+
+parent_template: git@github.com:learn-co-curriculum/intro-to-tdd-rspec-and-learn.git
